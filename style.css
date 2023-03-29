@@ -1,0 +1,38 @@
+.head{
+    background-color: blueviolet;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+.div{
+    text-align: center;
+
+}
+h3{
+    color: green;
+    font-weight: bolder;
+}
+.ul{
+    list-style-type: none;
+}
+.box{
+    height: 250px;
+    width: 100px;
+    border-color: aquamarine;
+    border: 1px solid palevioletred;
+    margin: 2px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.name{
+    height: 50px;
+    text-align: center;
+}
+
+.cap{
+    height: 50px;
+    text-align: center;
+}
